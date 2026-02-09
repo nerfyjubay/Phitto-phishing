@@ -1,0 +1,11 @@
+[package]
+name = "lib"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+reqwest = {version = "0.13.2"}
+thiserror ="2.0.18"
+kuchiki = "0.8.1"
+url = "2.5.8"
+tokio = {version = "1.49.0", features = ["fs"]}
