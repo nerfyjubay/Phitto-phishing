@@ -1,4 +1,4 @@
-# Phitto - Rust Phishing Website Cloner & Security Testing Tool
+# Phitto - Rust Phishing Website Cloner
 
 A high-performance **Rust phishing** tool designed for authorized security testing and penetration testing. Phitto clones target websites, captures credentials, and provides a complete phishing simulation framework built with modern Rust async technology.
 
